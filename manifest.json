@@ -1,0 +1,14 @@
+{
+  "manifestVersion": 1,
+  "id": "brain-gym",
+  "name": "脑力热身",
+  "version": "0.1.0",
+  "description": "认知训练小游戏卡片插件，支持舒尔特表格等互动脑力训练",
+  "minAppVersion": "0.158.0",
+  "trust": "full-access",
+  "contributes": {
+    "tools": ["start_game", "training_analysis"],
+    "routes": true,
+    "lifecycle": true
+  }
+}

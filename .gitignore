@@ -1,0 +1,20 @@
+# Brain Gym — .gitignore
+
+# Plugin development artifacts
+.hanako/
+plugin-data/
+plugins-dev/
+plugins/
+
+# Code indexing
+.codegraph/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Session files & temp docs
+总结下开发插件的坑.md

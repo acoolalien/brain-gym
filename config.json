@@ -1,0 +1,17 @@
+{
+  "games": {
+    "schulte": {
+      "implemented": true,
+      "label": "舒尔特表格",
+      "aspectRatio": "1:1",
+      "params": { "size": { "type": "number", "default": 5, "min": 5, "max": 7 } }
+    },
+    "gonogo":     { "implemented": true, "label": "Go/No-Go", "aspectRatio": "1:1", "params": { "size": { "type": "number", "default": 30, "min": 30, "max": 70 }, "mode": { "type": "string", "default": "standard" } } },
+    "stroop":     { "implemented": true, "label": "Stroop 色词测试", "aspectRatio": "1:1", "params": { "size": { "type": "number", "default": 30, "min": 30, "max": 70 }, "mode": { "type": "string", "default": "standard" } } },
+    "n-back":     { "implemented": false },
+    "digit-span": { "implemented": false },
+    "task-switch":{ "implemented": false },
+    "review":     { "implemented": false }
+  },
+  "plans": {}
+}
