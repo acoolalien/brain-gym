@@ -53,9 +53,11 @@ Agent 会返回一张 iframe 卡片，在卡片内完成游戏后自动保存结
 
 #### 界面截图
 
-开始界面 | 结果界面
-:------:|:------:
-![舒尔特开始](images/schulte-start.png) | ![舒尔特结果](images/schulte-result.png)
+开始界面
+![舒尔特开始](images/schulte-start.png)
+
+结果界面
+![舒尔特结果](images/schulte-result.png)
 
 
 ### Go/No-Go
@@ -72,9 +74,11 @@ Agent 会返回一张 iframe 卡片，在卡片内完成游戏后自动保存结
 
 #### 界面截图
 
-开始界面 | 结果界面
-:------:|:------:
-![Go/No-Go 开始](images/gonogo-start.png) | ![Go/No-Go 结果](images/gonogo-result.png)
+开始界面
+![Go/No-Go 开始](images/gonogo-start.png)
+
+结果界面
+![Go/No-Go 结果](images/gonogo-result.png)
 
 ### Stroop 色词（Stroop）
 
@@ -90,9 +94,11 @@ Agent 会返回一张 iframe 卡片，在卡片内完成游戏后自动保存结
 
 #### 界面截图
 
-开始界面 | 结果界面
-:------:|:------:
-![Stroop 开始](images/stroop-start.png) | ![Stroop 结果](images/stroop-result.png)
+开始界面
+![Stroop 开始](images/stroop-start.png)
+
+结果界面
+![Stroop 结果](images/stroop-result.png)
 
 
 ### 调用方式
